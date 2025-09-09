@@ -1,0 +1,73 @@
+﻿@model PriceQuotationApp.Models.Quotation
+@{
+    ViewData["Title"] = "Price Quotation";
+}
+
+<h2>Price Quotation</h2>
+
+<!-- STEP 1: Validation summary -->
+<!-- TODO: Add Html.ValidationSummary for errors -->
+<!-- Learn: Html.ValidationSummary -->
+<!--   https://learn.microsoft.com/dotnet/api/microsoft.aspnetcore.mvc.rendering.htmlhelper.validationsummary -->
+<!-- Murach: Ch.2 – “A view that displays a summary of validation messages” (slide) -->
+<!-- Example: @Html.ValidationSummary(...) -->
+
+
+<form asp-action="Index" method="post" novalidate>
+    @Html.AntiForgeryToken()
+
+    <!-- STEP 2: Subtotal input -->
+    <!-- TODO: Add label, input, and validation span for Subtotal -->
+    <!-- Learn: Tag Helpers in forms -->
+    <!--   https://learn.microsoft.com/aspnet/core/mvc/views/working-with-forms -->
+    <!-- Murach: Ch.2 – “Strongly-typed Index view with tag helpers” (slides) -->
+    <!-- Example:
+         <label asp-for="Subtotal"></label>
+         <input asp-for="Subtotal" type="number" step="0.01" />
+         <span asp-validation-for="Subtotal"></span>
+    -->
+
+    <!-- STEP 3: DiscountPercent input -->
+    <!-- TODO: Add label, input, and validation span for DiscountPercent -->
+    <!-- Learn: Validation message tag helper -->
+    <!--   https://learn.microsoft.com/aspnet/core/mvc/views/working-with-forms#the-input-tag-helper -->
+    <!-- Murach: Ch.2 – form field examples (slides) -->
+    <!-- Example:
+         <label asp-for="DiscountPercent"></label>
+         <input asp-for="DiscountPercent" type="number" step="0.01" min="0" max="100" />
+         <span asp-validation-for="DiscountPercent"></span>
+    -->
+
+    <div style="margin-top: 1rem;">
+        <!-- STEP 4: Actions -->
+        <!-- TODO: Add Calculate button and Clear link -->
+        <!-- Learn: asp-action tag helper -->
+        <!--   https://learn.microsoft.com/aspnet/core/mvc/views/working-with-forms#the-form-tag-helper -->
+        <!-- Murach: Ch.2 – “How to add a Razor view with a form” (slides) -->
+        <!-- Example:
+             <button type="submit">Calculate</button>
+             <a asp-action="Clear">Clear</a>
+        -->
+    </div>
+</form>
+
+<hr />
+
+<!-- STEP 5: Results -->
+<!-- TODO: Show Discount Amount and Total formatted as currency -->
+<!-- Learn: Standard numeric format strings ("C") -->
+<!--   https://learn.microsoft.com/dotnet/standard/base-types/standard-numeric-format-strings#the-currency-c-format-specifier -->
+<!-- Murach: Ch.1 – Product/Detail.cshtml view uses .ToString("C2") (slide) -->
+<!-- Example:
+     <p>Discount Amount: @string.Format("{0:C}", ViewBag.Discount)</p>
+     <p>Total: @string.Format("{0:C}", ViewBag.Total)</p>
+-->
+
+@section Scripts {
+    <!-- STEP 6: Client-side validation scripts -->
+    <!-- TODO: Add validation scripts partial -->
+    <!-- Learn: Client-side validation with jQuery Unobtrusive -->
+    <!--   https://learn.microsoft.com/aspnet/core/mvc/models/validation#client-side-validation -->
+    <!-- Murach: Ch.2 – “View imports + validation setup” (slides) -->
+    <!-- Example: <partial name="_ValidationScriptsPartial" /> -->
+}
