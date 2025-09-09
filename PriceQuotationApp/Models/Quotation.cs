@@ -13,7 +13,9 @@ namespace PriceQuotation.Models
         // - Add [Range] so value must be greater than 0
         // Learn: https://learn.microsoft.com/aspnet/core/mvc/models/validation
         // Murach: Ch.2 – “Model property with validation attributes” (slides)
+        [Required][Range(1, 500, Error Message = "Monthly investment amount must be between 1 and 500.")]
         public decimal? Subtotal { get; set; }
+         
 
         // -----------------------------
         // Property: DiscountPercent
@@ -24,7 +26,9 @@ namespace PriceQuotation.Models
         // - Add [Range] so value must be between 0 and 100
         // Learn: https://learn.microsoft.com/dotnet/api/system.componentmodel.dataannotations.rangeattribute
         // Murach: Ch.2 – “A model property with two validation attributes”
+        [Required][Range (0.0, 100.00, Error Message = "The range must be between 0 and 100")]
         public decimal? DiscountPercent { get; set; }
+        
 
 
         // -----------------------------
@@ -40,10 +44,24 @@ namespace PriceQuotation.Models
         // Learn: Conditional logic (if/else)
         //   https://learn.microsoft.com/dotnet/csharp/language-reference/statements/selection-statements
         // Murach: Ch.2 – “Action method that checks for invalid data”
-        public decimal CalculateDiscount()
+        public decimal CalculateDiscount(decimal? Subtotal, decimal? DiscountPercent)
         {
             // TODO: Replace pseudocode with real C#
-            return 0m; // placeholder so code compiles
+            if (Subtotal.HasValue && DiscountPercent.HasValue)
+                {
+                // block of code to be executed if condition1 is True
+                    decimal discount = Subtotal.Value * (DiscountPercent.Value / 100);
+                    discount = Math.Round(discount, 2);
+                    return discount
+                    
+                } 
+    
+                else
+                {
+                    return 0m;  // placeholder so code compiles
+                }
+
+            
         }
 
         // -----------------------------
@@ -57,13 +75,27 @@ namespace PriceQuotation.Models
         //     return total
         // else
         //     return 0
+
         // Learn: Nullable types (HasValue)
         //   https://learn.microsoft.com/dotnet/csharp/language-reference/builtin-types/nullable-value-types
         // Murach: Ch.1 – MVC pattern, model handles calculations
         public decimal CalculateTotal()
         {
             // TODO: Replace pseudocode with real C#
-            return 0m; // placeholder so code compiles
+
+            if (Subtotal.HasValue) 
+            {
+                decimal discount = CalculateDiscount(Subtotal, DiscountPercent);
+                decimal total = Subtotal.Value - discount;
+                total = Math.Round(total, 2);
+                return total
+            }
+
+            else
+            {
+                return 0m; 
+            }
+            
         }
     }
 }
