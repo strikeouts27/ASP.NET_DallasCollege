@@ -1,6 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
-using Microsoft.AspNetCore.Mvc;
 using PriceQuotationApp.Models;
 
 namespace PriceQuotation.Controllers
@@ -21,7 +20,12 @@ namespace PriceQuotation.Controllers
         public IActionResult Index()
         {
             // TODO: Replace pseudocode with real C#
-            return View();
+
+            ViewBag.Discount = 0; 
+            ViewBag.Total = 0;  
+            
+            var quote = new Quotation();
+            return View(quote);
         }
 
         // -----------------------------
@@ -44,6 +48,16 @@ namespace PriceQuotation.Controllers
         public IActionResult Index(Quotation quote)
         {
             // TODO: Replace pseudocode with real C#
+            if (ModelState.IsValid)
+            {
+                ViewBag.Discount = quote.CalculateDiscount(quote.Subtotal, quote.DiscountPercent);
+                ViewBag.Total = quote.CalculateTotal();
+            }
+            else
+            {
+                ViewBag.Discount = 0;
+                ViewBag.Total = 0;
+            }
             return View(quote);
         }
 
@@ -54,12 +68,16 @@ namespace PriceQuotation.Controllers
         // 1. Clear the ModelState
         // 2. Redirect to Index (GET)
         // Learn: RedirectToAction
+
+
         //   https://learn.microsoft.com/dotnet/api/microsoft.aspnetcore.mvc.controllerbase.redirecttoaction
         // Murach: Ch.1 – “How request URLs map to controllers and actions by default”
         [HttpGet]
         public IActionResult Clear()
         {
-            // TODO: Replace pseudocode with real C#
+            // Clear ModelState
+            ModelState.Clear();
+            // Redirect to Index (GET)
             return RedirectToAction(nameof(Index));
         }
     }

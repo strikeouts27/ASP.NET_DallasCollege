@@ -10,9 +10,7 @@
 <!-- Learn: Html.ValidationSummary -->
 <!--   https://learn.microsoft.com/dotnet/api/microsoft.aspnetcore.mvc.rendering.htmlhelper.validationsummary -->
 <!-- Murach: Ch.2 – “A view that displays a summary of validation messages” (slide) -->
-<!-- Example: @Html.ValidationSummary(...) -->
 
-</form>
 
 <form asp-action="Index" method="post" novalidate>
     <div asp-validation-summary="All"></div>
@@ -71,8 +69,8 @@
 <!--   https://learn.microsoft.com/dotnet/standard/base-types/standard-numeric-format-strings#the-currency-c-format-specifier -->
 <!-- Murach: Ch.1 – Product/Detail.cshtml view uses .ToString("C2") (slide) -->
 <!-- Example: -->
-     <p>Discount Amount: @(Discount.ToString("C"))</p>
-     <p>Total: @(Total.ToString("C"))</p>
+    <p>Discount Amount: @(ViewBag.Discount != null ? ((decimal)ViewBag.Discount).ToString("C") : "$0.00")</p>
+    <p>Total: @(ViewBag.Total != null ? ((decimal)ViewBag.Total).ToString("C") : "$0.00")</p>
 
 
 

@@ -1,6 +1,6 @@
 using System.ComponentModel.DataAnnotations;
 
-namespace PriceQuotation.Models
+namespace PriceQuotationApp.Models
 {
     public class Quotation
     {
@@ -13,8 +13,9 @@ namespace PriceQuotation.Models
         // - Add [Range] so value must be greater than 0
         // Learn: https://learn.microsoft.com/aspnet/core/mvc/models/validation
         // Murach: Ch.2 – “Model property with validation attributes” (slides)
-        [Required][Range(1, 500, Error Message = "Monthly investment amount must be between 1 and 500.")]
-        public decimal? Subtotal { get; set; }
+    [Required]
+    [Range(1, 500, ErrorMessage = "Monthly investment amount must be between 1 and 500.")]
+    public decimal? Subtotal { get; set; }
          
 
         // -----------------------------
@@ -26,8 +27,9 @@ namespace PriceQuotation.Models
         // - Add [Range] so value must be between 0 and 100
         // Learn: https://learn.microsoft.com/dotnet/api/system.componentmodel.dataannotations.rangeattribute
         // Murach: Ch.2 – “A model property with two validation attributes”
-        [Required][Range (0.0, 100.00, Error Message = "The range must be between 0 and 100")]
-        public decimal? DiscountPercent { get; set; }
+    [Required]
+    [Range(0.0, 100.00, ErrorMessage = "The range must be between 0 and 100")]
+    public decimal? DiscountPercent { get; set; }
         
 
 
@@ -52,7 +54,7 @@ namespace PriceQuotation.Models
                 // block of code to be executed if condition1 is True
                     decimal discount = Subtotal.Value * (DiscountPercent.Value / 100);
                     discount = Math.Round(discount, 2);
-                    return discount
+                    return discount;
                     
                 } 
     
@@ -88,7 +90,7 @@ namespace PriceQuotation.Models
                 decimal discount = CalculateDiscount(Subtotal, DiscountPercent);
                 decimal total = Subtotal.Value - discount;
                 total = Math.Round(total, 2);
-                return total
+                return total;
             }
 
             else
