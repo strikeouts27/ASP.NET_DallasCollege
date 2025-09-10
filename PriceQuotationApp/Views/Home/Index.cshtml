@@ -70,10 +70,11 @@
 <!-- Learn: Standard numeric format strings ("C") -->
 <!--   https://learn.microsoft.com/dotnet/standard/base-types/standard-numeric-format-strings#the-currency-c-format-specifier -->
 <!-- Murach: Ch.1 – Product/Detail.cshtml view uses .ToString("C2") (slide) -->
-<!-- Example:
-     <p>Discount Amount: @string.Format("{0:C}", ViewBag.Discount)</p>
-     <p>Total: @string.Format("{0:C}", ViewBag.Total)</p>
--->
+<!-- Example: -->
+     <p>Discount Amount: @(Discount.ToString("C"))</p>
+     <p>Total: @(Total.ToString("C"))</p>
+
+
 
 @section Scripts {
     <!-- STEP 6: Client-side validation scripts -->
@@ -81,5 +82,7 @@
     <!-- Learn: Client-side validation with jQuery Unobtrusive -->
     <!--   https://learn.microsoft.com/aspnet/core/mvc/models/validation#client-side-validation -->
     <!-- Murach: Ch.2 – “View imports + validation setup” (slides) -->
-    <!-- Example: <partial name="_ValidationScriptsPartial" /> -->
+    <!-- Example: -->
+    <partial name="_ValidationScriptsPartial" /> 
 }
+ 
