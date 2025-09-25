@@ -1,0 +1,765 @@
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\ITSE_Web_Design\ASP.NET_DallasCollege\PriceQuotationApp\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\ITSE_Web_Design\ASP.NET_DallasCollege\PriceQuotationApp\bin\Debug\net9.0\appsettings.json
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\ITSE_Web_Design\ASP.NET_DallasCollege\PriceQuotationApp\bin\Debug\net9.0\PriceQuotationApp.staticwebassets.runtime.json
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\ITSE_Web_Design\ASP.NET_DallasCollege\PriceQuotationApp\bin\Debug\net9.0\PriceQuotationApp.staticwebassets.endpoints.json
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\ITSE_Web_Design\ASP.NET_DallasCollege\PriceQuotationApp\bin\Debug\net9.0\PriceQuotationApp.exe
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\ITSE_Web_Design\ASP.NET_DallasCollege\PriceQuotationApp\bin\Debug\net9.0\PriceQuotationApp.deps.json
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\ITSE_Web_Design\ASP.NET_DallasCollege\PriceQuotationApp\bin\Debug\net9.0\PriceQuotationApp.runtimeconfig.json
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\ITSE_Web_Design\ASP.NET_DallasCollege\PriceQuotationApp\bin\Debug\net9.0\PriceQuotationApp.dll
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\ITSE_Web_Design\ASP.NET_DallasCollege\PriceQuotationApp\bin\Debug\net9.0\PriceQuotationApp.pdb
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\ITSE_Web_Design\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\ITSE_Web_Design\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\PriceQuotationApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\ITSE_Web_Design\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\PriceQuotationApp.AssemblyInfoInputs.cache
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\ITSE_Web_Design\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\PriceQuotationApp.AssemblyInfo.cs
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\ITSE_Web_Design\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\PriceQuotationApp.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\ITSE_Web_Design\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\PriceQuotationApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\ITSE_Web_Design\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\PriceQuotationApp.RazorAssemblyInfo.cache
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\ITSE_Web_Design\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\PriceQuotationApp.RazorAssemblyInfo.cs
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\ITSE_Web_Design\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\PriceQuotationApp.sourcelink.json
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\ITSE_Web_Design\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\ITSE_Web_Design\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\ITSE_Web_Design\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\ITSE_Web_Design\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\ITSE_Web_Design\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\scopedcss\bundle\PriceQuotationApp.styles.css
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\ITSE_Web_Design\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\scopedcss\projectbundle\PriceQuotationApp.bundle.scp.css
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\ITSE_Web_Design\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\1x55ho4oqj-b9sayid5wm.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\ITSE_Web_Design\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\fctycyt3m2-61n19gt1b8.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\ITSE_Web_Design\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\xthzer6j41-xtxxf3hu2r.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\ITSE_Web_Design\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\016uij6zge-bqjiyaj88i.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\ITSE_Web_Design\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\bg62pupkaf-c2jlpeoesf.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\ITSE_Web_Design\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\smn9a92i8c-erw9l3u2r3.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\ITSE_Web_Design\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\apy27d3bj7-aexeepp0ev.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\ITSE_Web_Design\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\4ekvi01f23-d7shbmvgxk.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\ITSE_Web_Design\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\0sfmizrb36-ausgxo2sd3.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\ITSE_Web_Design\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\wurtoav11u-k8d9w2qqmf.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\ITSE_Web_Design\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\mbml19yt2v-cosvhxvwiu.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\ITSE_Web_Design\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\7jjxtb27me-ub07r2b239.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\ITSE_Web_Design\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\lbxy6oug14-fvhpjtyr6v.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\ITSE_Web_Design\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\zam9w377tq-b7pk76d08c.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\ITSE_Web_Design\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\k63w9dvpwb-fsbi9cje9m.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\ITSE_Web_Design\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\wuh7x080ym-rzd6atqjts.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\ITSE_Web_Design\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\dwqjuyca5n-ee0r1s7dh0.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\ITSE_Web_Design\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\lngjuw2vsu-dxx9fxp4il.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\ITSE_Web_Design\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\7kw92ksqek-jd9uben2k1.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\ITSE_Web_Design\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\cmd8z0gz8x-khv3u5hwcm.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\ITSE_Web_Design\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\vo6mj8ixfj-r4e9w2rdcm.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\ITSE_Web_Design\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\ksf0pdjoeu-lcd1t2u6c8.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\ITSE_Web_Design\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\zl42u9sajp-c2oey78nd0.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\ITSE_Web_Design\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\q6orkf83mz-tdbxkamptv.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\ITSE_Web_Design\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\39uynsxbgd-j5mq2jizvt.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\ITSE_Web_Design\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\9bya9yi0n8-06098lyss8.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\ITSE_Web_Design\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\aur5aawi7q-nvvlpmu67g.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\ITSE_Web_Design\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\4rsb16onr4-s35ty4nyc5.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\ITSE_Web_Design\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\f9kkzx8zed-pj5nd1wqec.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\ITSE_Web_Design\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\4m9p7zzo0l-46ein0sx1k.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\ITSE_Web_Design\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\azk0y6i4le-v0zj4ognzu.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\ITSE_Web_Design\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\u8gmxboxou-37tfw0ft22.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\ITSE_Web_Design\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\7zse86ajjm-hrwsygsryq.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\ITSE_Web_Design\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\2r6tciqz9z-pk9g2wxc8p.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\ITSE_Web_Design\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\e462vipgej-ft3s53vfgj.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\ITSE_Web_Design\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\6ud7cvgxur-6cfz1n2cew.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\ITSE_Web_Design\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\utnf184pwc-6pdc2jztkx.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\ITSE_Web_Design\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\54rnlqrq7d-493y06b0oq.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\ITSE_Web_Design\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\wowvef5msp-iovd86k7lj.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\ITSE_Web_Design\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\mua7rme932-vr1egmr9el.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\ITSE_Web_Design\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\j5dfsc85b7-kbrnm935zg.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\ITSE_Web_Design\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\v3iihlm4pu-jj8uyg4cgr.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\ITSE_Web_Design\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\a40n6o86xn-y7v9cxd14o.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\ITSE_Web_Design\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\k03fwda3qw-notf2xhcfb.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\ITSE_Web_Design\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\1gquuwwskd-h1s4sie4z3.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\ITSE_Web_Design\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\aruhswob54-63fj8s7r0e.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\ITSE_Web_Design\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\1lqrh5d4vj-0j3bgjxly4.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\ITSE_Web_Design\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\seb407pm0v-47otxtyo56.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\ITSE_Web_Design\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\7waa4ffroa-4v8eqarkd7.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\ITSE_Web_Design\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\h3f19d4cjb-356vix0kms.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\ITSE_Web_Design\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\xawye55o0f-83jwlth58m.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\ITSE_Web_Design\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\rlpvtm7maa-mrlpezrjn3.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\ITSE_Web_Design\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\es9d2txf3w-lzl9nlhx6b.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\ITSE_Web_Design\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\ekxgl72f8w-ag7o75518u.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\ITSE_Web_Design\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\x75k5wnmi7-x0q3zqp4vz.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\ITSE_Web_Design\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\l9qeu2ftyf-0i3buxo5is.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\ITSE_Web_Design\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\tbluqnep57-o1o13a6vjx.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\ITSE_Web_Design\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\buqdk0lami-ttgo8qnofa.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\ITSE_Web_Design\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\io7or041iz-2z0ns9nrw6.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\ITSE_Web_Design\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\ya3zsu4sy0-muycvpuwrr.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\ITSE_Web_Design\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\df4zf7p3ey-87fc7y1x7t.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\ITSE_Web_Design\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\2gazs64hk0-mlv21k5csn.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\ITSE_Web_Design\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\k1agf3ih4a-ey2n6aytof.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\ITSE_Web_Design\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\h14mywobu7-ey2n6aytof.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\ITSE_Web_Design\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\ITSE_Web_Design\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\ITSE_Web_Design\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\ITSE_Web_Design\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\ITSE_Web_Design\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\PriceQuotationApp.dll
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\ITSE_Web_Design\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\refint\PriceQuotationApp.dll
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\ITSE_Web_Design\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\PriceQuotationApp.pdb
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\ITSE_Web_Design\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\PriceQuotationApp.genruntimeconfig.cache
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\ITSE_Web_Design\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\ref\PriceQuotationApp.dll
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\PriceQuotationApp\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\PriceQuotationApp\bin\Debug\net9.0\appsettings.json
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\PriceQuotationApp\bin\Debug\net9.0\PriceQuotationApp.staticwebassets.endpoints.json
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\PriceQuotationApp\bin\Debug\net9.0\PriceQuotationApp.staticwebassets.runtime.json
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\PriceQuotationApp\bin\Debug\net9.0\PriceQuotationApp.exe
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\PriceQuotationApp\bin\Debug\net9.0\PriceQuotationApp.deps.json
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\PriceQuotationApp\bin\Debug\net9.0\PriceQuotationApp.runtimeconfig.json
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\PriceQuotationApp\bin\Debug\net9.0\PriceQuotationApp.dll
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\PriceQuotationApp\bin\Debug\net9.0\PriceQuotationApp.pdb
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\PriceQuotationApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\PriceQuotationApp.AssemblyInfoInputs.cache
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\PriceQuotationApp.AssemblyInfo.cs
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\PriceQuotationApp.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\PriceQuotationApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\PriceQuotationApp.RazorAssemblyInfo.cache
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\PriceQuotationApp.RazorAssemblyInfo.cs
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\PriceQuotationApp.sourcelink.json
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\scopedcss\bundle\PriceQuotationApp.styles.css
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\scopedcss\projectbundle\PriceQuotationApp.bundle.scp.css
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\1x55ho4oqj-b9sayid5wm.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\fctycyt3m2-61n19gt1b8.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\xthzer6j41-xtxxf3hu2r.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\016uij6zge-bqjiyaj88i.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\bg62pupkaf-c2jlpeoesf.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\smn9a92i8c-erw9l3u2r3.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\apy27d3bj7-aexeepp0ev.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\4ekvi01f23-d7shbmvgxk.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\0sfmizrb36-ausgxo2sd3.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\wurtoav11u-k8d9w2qqmf.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\mbml19yt2v-cosvhxvwiu.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\7jjxtb27me-ub07r2b239.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\lbxy6oug14-fvhpjtyr6v.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\zam9w377tq-b7pk76d08c.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\k63w9dvpwb-fsbi9cje9m.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\wuh7x080ym-rzd6atqjts.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\dwqjuyca5n-ee0r1s7dh0.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\lngjuw2vsu-dxx9fxp4il.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\7kw92ksqek-jd9uben2k1.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\cmd8z0gz8x-khv3u5hwcm.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\vo6mj8ixfj-r4e9w2rdcm.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\ksf0pdjoeu-lcd1t2u6c8.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\zl42u9sajp-c2oey78nd0.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\q6orkf83mz-tdbxkamptv.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\39uynsxbgd-j5mq2jizvt.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\9bya9yi0n8-06098lyss8.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\aur5aawi7q-nvvlpmu67g.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\4rsb16onr4-s35ty4nyc5.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\f9kkzx8zed-pj5nd1wqec.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\4m9p7zzo0l-46ein0sx1k.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\azk0y6i4le-v0zj4ognzu.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\u8gmxboxou-37tfw0ft22.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\7zse86ajjm-hrwsygsryq.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\2r6tciqz9z-pk9g2wxc8p.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\e462vipgej-ft3s53vfgj.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\6ud7cvgxur-6cfz1n2cew.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\utnf184pwc-6pdc2jztkx.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\54rnlqrq7d-493y06b0oq.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\wowvef5msp-iovd86k7lj.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\mua7rme932-vr1egmr9el.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\j5dfsc85b7-kbrnm935zg.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\v3iihlm4pu-jj8uyg4cgr.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\a40n6o86xn-y7v9cxd14o.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\k03fwda3qw-notf2xhcfb.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\1gquuwwskd-h1s4sie4z3.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\aruhswob54-63fj8s7r0e.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\1lqrh5d4vj-0j3bgjxly4.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\seb407pm0v-47otxtyo56.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\7waa4ffroa-4v8eqarkd7.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\h3f19d4cjb-356vix0kms.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\xawye55o0f-83jwlth58m.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\rlpvtm7maa-mrlpezrjn3.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\es9d2txf3w-lzl9nlhx6b.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\ekxgl72f8w-ag7o75518u.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\x75k5wnmi7-x0q3zqp4vz.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\l9qeu2ftyf-0i3buxo5is.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\tbluqnep57-o1o13a6vjx.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\buqdk0lami-ttgo8qnofa.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\io7or041iz-2z0ns9nrw6.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\ya3zsu4sy0-muycvpuwrr.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\df4zf7p3ey-87fc7y1x7t.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\2gazs64hk0-mlv21k5csn.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\k1agf3ih4a-ey2n6aytof.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\compressed\h14mywobu7-ey2n6aytof.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\PriceQuotationApp.dll
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\refint\PriceQuotationApp.dll
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\PriceQuotationApp.pdb
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\PriceQuotationApp.genruntimeconfig.cache
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\PriceQuotationApp\obj\Debug\net9.0\ref\PriceQuotationApp.dll
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\PriceQuotationApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\PriceQuotationApp.AssemblyInfoInputs.cache
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\PriceQuotationApp.AssemblyInfo.cs
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\PriceQuotationApp.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\PriceQuotationApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\PriceQuotationApp.RazorAssemblyInfo.cache
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\PriceQuotationApp.RazorAssemblyInfo.cs
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\PriceQuotationApp.sourcelink.json
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\PriceQuotationApp.dll
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\refint\PriceQuotationApp.dll
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\PriceQuotationApp.pdb
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\ASP.NET_DallasCollege-main\PriceQuotationApp\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\ASP.NET_DallasCollege-main\PriceQuotationApp\bin\Debug\net9.0\appsettings.json
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\ASP.NET_DallasCollege-main\PriceQuotationApp\bin\Debug\net9.0\PriceQuotationApp.staticwebassets.runtime.json
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\ASP.NET_DallasCollege-main\PriceQuotationApp\bin\Debug\net9.0\PriceQuotationApp.staticwebassets.endpoints.json
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\ASP.NET_DallasCollege-main\PriceQuotationApp\bin\Debug\net9.0\PriceQuotationApp.exe
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\ASP.NET_DallasCollege-main\PriceQuotationApp\bin\Debug\net9.0\PriceQuotationApp.deps.json
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\ASP.NET_DallasCollege-main\PriceQuotationApp\bin\Debug\net9.0\PriceQuotationApp.runtimeconfig.json
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\ASP.NET_DallasCollege-main\PriceQuotationApp\bin\Debug\net9.0\PriceQuotationApp.dll
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\ASP.NET_DallasCollege-main\PriceQuotationApp\bin\Debug\net9.0\PriceQuotationApp.pdb
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\scopedcss\bundle\PriceQuotationApp.styles.css
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\scopedcss\projectbundle\PriceQuotationApp.bundle.scp.css
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\1x55ho4oqj-lugek5hnai.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\fctycyt3m2-61n19gt1b8.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\xthzer6j41-fr7q2aak1r.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\016uij6zge-bqjiyaj88i.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\bg62pupkaf-c2jlpeoesf.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\smn9a92i8c-erw9l3u2r3.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\apy27d3bj7-aexeepp0ev.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\4ekvi01f23-d7shbmvgxk.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\0sfmizrb36-ausgxo2sd3.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\wurtoav11u-k8d9w2qqmf.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\mbml19yt2v-cosvhxvwiu.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\7jjxtb27me-ub07r2b239.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\lbxy6oug14-fvhpjtyr6v.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\zam9w377tq-b7pk76d08c.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\k63w9dvpwb-fsbi9cje9m.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\wuh7x080ym-rzd6atqjts.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\dwqjuyca5n-ee0r1s7dh0.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\lngjuw2vsu-dxx9fxp4il.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\7kw92ksqek-jd9uben2k1.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\cmd8z0gz8x-khv3u5hwcm.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\vo6mj8ixfj-r4e9w2rdcm.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\ksf0pdjoeu-lcd1t2u6c8.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\zl42u9sajp-c2oey78nd0.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\q6orkf83mz-tdbxkamptv.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\39uynsxbgd-j5mq2jizvt.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\9bya9yi0n8-06098lyss8.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\aur5aawi7q-nvvlpmu67g.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\4rsb16onr4-s35ty4nyc5.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\f9kkzx8zed-pj5nd1wqec.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\4m9p7zzo0l-46ein0sx1k.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\azk0y6i4le-v0zj4ognzu.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\u8gmxboxou-37tfw0ft22.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\7zse86ajjm-hrwsygsryq.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\2r6tciqz9z-pk9g2wxc8p.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\e462vipgej-ft3s53vfgj.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\6ud7cvgxur-6cfz1n2cew.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\utnf184pwc-6pdc2jztkx.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\54rnlqrq7d-493y06b0oq.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\wowvef5msp-iovd86k7lj.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\mua7rme932-vr1egmr9el.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\j5dfsc85b7-kbrnm935zg.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\v3iihlm4pu-jj8uyg4cgr.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\a40n6o86xn-y7v9cxd14o.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\k03fwda3qw-notf2xhcfb.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\1gquuwwskd-h1s4sie4z3.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\aruhswob54-63fj8s7r0e.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\1lqrh5d4vj-0j3bgjxly4.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\seb407pm0v-47otxtyo56.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\7waa4ffroa-4v8eqarkd7.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\h3f19d4cjb-l3n5xuwxn8.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\xawye55o0f-ilo7uva0vt.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\rlpvtm7maa-qlccset4i1.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\es9d2txf3w-lzl9nlhx6b.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\ekxgl72f8w-ag7o75518u.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\x75k5wnmi7-xzw0cte36n.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\l9qeu2ftyf-0i3buxo5is.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\tbluqnep57-o1o13a6vjx.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\buqdk0lami-ttgo8qnofa.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\io7or041iz-2z0ns9nrw6.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\ya3zsu4sy0-muycvpuwrr.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\df4zf7p3ey-87fc7y1x7t.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\2gazs64hk0-jfsiqqwiad.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\k1agf3ih4a-ey2n6aytof.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\h14mywobu7-ey2n6aytof.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\PriceQuotationApp.genruntimeconfig.cache
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\ref\PriceQuotationApp.dll
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\w24y2eat5k-ulb8kzwt9u.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\bin\Debug\net9.0\appsettings.json
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\bin\Debug\net9.0\PriceQuotationApp.staticwebassets.endpoints.json
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\bin\Debug\net9.0\PriceQuotationApp.staticwebassets.runtime.json
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\bin\Debug\net9.0\PriceQuotationApp.exe
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\bin\Debug\net9.0\PriceQuotationApp.deps.json
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\bin\Debug\net9.0\PriceQuotationApp.runtimeconfig.json
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\bin\Debug\net9.0\PriceQuotationApp.dll
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\bin\Debug\net9.0\PriceQuotationApp.pdb
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\PriceQuotationApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\PriceQuotationApp.AssemblyInfoInputs.cache
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\PriceQuotationApp.AssemblyInfo.cs
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\PriceQuotationApp.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\PriceQuotationApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\PriceQuotationApp.RazorAssemblyInfo.cache
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\PriceQuotationApp.RazorAssemblyInfo.cs
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\PriceQuotationApp.sourcelink.json
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\scopedcss\bundle\PriceQuotationApp.styles.css
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\scopedcss\projectbundle\PriceQuotationApp.bundle.scp.css
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\1x55ho4oqj-lugek5hnai.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\fctycyt3m2-61n19gt1b8.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\xthzer6j41-fr7q2aak1r.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\016uij6zge-bqjiyaj88i.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\bg62pupkaf-c2jlpeoesf.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\smn9a92i8c-erw9l3u2r3.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\apy27d3bj7-aexeepp0ev.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\4ekvi01f23-d7shbmvgxk.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\0sfmizrb36-ausgxo2sd3.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\wurtoav11u-k8d9w2qqmf.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\mbml19yt2v-cosvhxvwiu.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\7jjxtb27me-ub07r2b239.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\lbxy6oug14-fvhpjtyr6v.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\zam9w377tq-b7pk76d08c.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\k63w9dvpwb-fsbi9cje9m.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\wuh7x080ym-rzd6atqjts.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\dwqjuyca5n-ee0r1s7dh0.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\lngjuw2vsu-dxx9fxp4il.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\7kw92ksqek-jd9uben2k1.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\cmd8z0gz8x-khv3u5hwcm.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\vo6mj8ixfj-r4e9w2rdcm.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\ksf0pdjoeu-lcd1t2u6c8.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\zl42u9sajp-c2oey78nd0.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\q6orkf83mz-tdbxkamptv.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\39uynsxbgd-j5mq2jizvt.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\9bya9yi0n8-06098lyss8.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\aur5aawi7q-nvvlpmu67g.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\4rsb16onr4-s35ty4nyc5.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\f9kkzx8zed-pj5nd1wqec.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\4m9p7zzo0l-46ein0sx1k.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\azk0y6i4le-v0zj4ognzu.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\u8gmxboxou-37tfw0ft22.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\7zse86ajjm-hrwsygsryq.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\2r6tciqz9z-pk9g2wxc8p.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\e462vipgej-ft3s53vfgj.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\6ud7cvgxur-6cfz1n2cew.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\utnf184pwc-6pdc2jztkx.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\54rnlqrq7d-493y06b0oq.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\wowvef5msp-iovd86k7lj.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\mua7rme932-vr1egmr9el.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\j5dfsc85b7-kbrnm935zg.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\v3iihlm4pu-jj8uyg4cgr.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\a40n6o86xn-y7v9cxd14o.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\k03fwda3qw-notf2xhcfb.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\1gquuwwskd-h1s4sie4z3.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\aruhswob54-63fj8s7r0e.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\1lqrh5d4vj-0j3bgjxly4.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\w24y2eat5k-ulb8kzwt9u.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\seb407pm0v-47otxtyo56.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\7waa4ffroa-4v8eqarkd7.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\h3f19d4cjb-l3n5xuwxn8.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\xawye55o0f-ilo7uva0vt.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\rlpvtm7maa-qlccset4i1.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\es9d2txf3w-lzl9nlhx6b.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\ekxgl72f8w-ag7o75518u.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\x75k5wnmi7-xzw0cte36n.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\l9qeu2ftyf-0i3buxo5is.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\tbluqnep57-o1o13a6vjx.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\buqdk0lami-ttgo8qnofa.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\io7or041iz-2z0ns9nrw6.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\ya3zsu4sy0-muycvpuwrr.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\df4zf7p3ey-87fc7y1x7t.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\2gazs64hk0-jfsiqqwiad.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\k1agf3ih4a-ey2n6aytof.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\h14mywobu7-ey2n6aytof.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\PriceQuotationApp.dll
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\refint\PriceQuotationApp.dll
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\PriceQuotationApp.pdb
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\PriceQuotationApp.genruntimeconfig.cache
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\ref\PriceQuotationApp.dll
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\bin\Debug\net9.0\libman.json
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\w7aiiu1qwi-bqjiyaj88i.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\340p91yxm3-c2jlpeoesf.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\5cmahghq97-erw9l3u2r3.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\1p389jjcen-aexeepp0ev.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\zw71yi1dea-d7shbmvgxk.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\3tfax2g7jp-ausgxo2sd3.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\wnat399zy4-k8d9w2qqmf.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\scqgycze57-cosvhxvwiu.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\5m4pbp0u0v-ub07r2b239.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\f28ypuf4lw-fvhpjtyr6v.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\9v6ulxodbv-b7pk76d08c.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\e9i482o5d9-fsbi9cje9m.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\o3fiuxtfoh-rzd6atqjts.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\425zsx5luo-ee0r1s7dh0.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\i5t0nnjqxf-dxx9fxp4il.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\qbd3zpixm8-jd9uben2k1.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\hwlmfh7nin-khv3u5hwcm.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\ji4828cyya-r4e9w2rdcm.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\dp1po4z9w6-lcd1t2u6c8.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\qoryh24whm-c2oey78nd0.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\g9v5bchas7-tdbxkamptv.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\k3sts2yyg7-j5mq2jizvt.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\6qf3er2erh-06098lyss8.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\o86axv21e8-nvvlpmu67g.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\zbhwtxu5fa-s35ty4nyc5.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\3hq4mxgjwj-pj5nd1wqec.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\g1m85svs8p-46ein0sx1k.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\nubs7k0bkh-v0zj4ognzu.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\op8r1qg5on-37tfw0ft22.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\lg79z4dsx9-hrwsygsryq.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\ac5tbuse2g-pk9g2wxc8p.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\02bclnz0x7-ft3s53vfgj.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\b9anx3qsfu-6cfz1n2cew.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\q51r08hes6-6pdc2jztkx.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\xbrr5ln01q-493y06b0oq.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\8p6ny49dof-iovd86k7lj.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\8d4k9dvtqv-vr1egmr9el.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\ni9mwz38s0-kbrnm935zg.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\1o2mrx08dq-jj8uyg4cgr.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\14ik9sp8z0-y7v9cxd14o.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\1g5xyl9rin-notf2xhcfb.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\4i606k3ea5-h1s4sie4z3.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\zz8ksxnvs9-63fj8s7r0e.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\1zx1c6abzd-0j3bgjxly4.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\bin\Debug\net9.0\appsettings.json
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\bin\Debug\net9.0\libman.json
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\bin\Debug\net9.0\PriceQuotationApp.staticwebassets.endpoints.json
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\bin\Debug\net9.0\PriceQuotationApp.staticwebassets.runtime.json
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\bin\Debug\net9.0\PriceQuotationApp.exe
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\bin\Debug\net9.0\PriceQuotationApp.deps.json
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\bin\Debug\net9.0\PriceQuotationApp.runtimeconfig.json
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\bin\Debug\net9.0\PriceQuotationApp.dll
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\bin\Debug\net9.0\PriceQuotationApp.pdb
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\PriceQuotationApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\PriceQuotationApp.AssemblyInfoInputs.cache
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\PriceQuotationApp.AssemblyInfo.cs
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\PriceQuotationApp.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\PriceQuotationApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\PriceQuotationApp.RazorAssemblyInfo.cache
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\PriceQuotationApp.RazorAssemblyInfo.cs
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\PriceQuotationApp.sourcelink.json
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\scopedcss\bundle\PriceQuotationApp.styles.css
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\scopedcss\projectbundle\PriceQuotationApp.bundle.scp.css
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\1x55ho4oqj-lugek5hnai.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\fctycyt3m2-61n19gt1b8.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\xthzer6j41-fr7q2aak1r.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\w7aiiu1qwi-bqjiyaj88i.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\340p91yxm3-c2jlpeoesf.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\5cmahghq97-erw9l3u2r3.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\1p389jjcen-aexeepp0ev.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\zw71yi1dea-d7shbmvgxk.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\3tfax2g7jp-ausgxo2sd3.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\wnat399zy4-k8d9w2qqmf.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\scqgycze57-cosvhxvwiu.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\5m4pbp0u0v-ub07r2b239.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\f28ypuf4lw-fvhpjtyr6v.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\9v6ulxodbv-b7pk76d08c.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\e9i482o5d9-fsbi9cje9m.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\o3fiuxtfoh-rzd6atqjts.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\425zsx5luo-ee0r1s7dh0.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\i5t0nnjqxf-dxx9fxp4il.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\qbd3zpixm8-jd9uben2k1.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\hwlmfh7nin-khv3u5hwcm.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\ji4828cyya-r4e9w2rdcm.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\dp1po4z9w6-lcd1t2u6c8.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\qoryh24whm-c2oey78nd0.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\g9v5bchas7-tdbxkamptv.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\k3sts2yyg7-j5mq2jizvt.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\6qf3er2erh-06098lyss8.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\o86axv21e8-nvvlpmu67g.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\zbhwtxu5fa-s35ty4nyc5.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\3hq4mxgjwj-pj5nd1wqec.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\g1m85svs8p-46ein0sx1k.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\nubs7k0bkh-v0zj4ognzu.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\op8r1qg5on-37tfw0ft22.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\lg79z4dsx9-hrwsygsryq.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\ac5tbuse2g-pk9g2wxc8p.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\02bclnz0x7-ft3s53vfgj.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\016uij6zge-bqjiyaj88i.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\bg62pupkaf-c2jlpeoesf.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\smn9a92i8c-erw9l3u2r3.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\apy27d3bj7-aexeepp0ev.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\4ekvi01f23-d7shbmvgxk.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\0sfmizrb36-ausgxo2sd3.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\wurtoav11u-k8d9w2qqmf.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\mbml19yt2v-cosvhxvwiu.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\7jjxtb27me-ub07r2b239.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\lbxy6oug14-fvhpjtyr6v.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\zam9w377tq-b7pk76d08c.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\k63w9dvpwb-fsbi9cje9m.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\wuh7x080ym-rzd6atqjts.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\dwqjuyca5n-ee0r1s7dh0.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\lngjuw2vsu-dxx9fxp4il.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\7kw92ksqek-jd9uben2k1.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\cmd8z0gz8x-khv3u5hwcm.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\vo6mj8ixfj-r4e9w2rdcm.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\ksf0pdjoeu-lcd1t2u6c8.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\zl42u9sajp-c2oey78nd0.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\q6orkf83mz-tdbxkamptv.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\39uynsxbgd-j5mq2jizvt.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\9bya9yi0n8-06098lyss8.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\aur5aawi7q-nvvlpmu67g.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\4rsb16onr4-s35ty4nyc5.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\f9kkzx8zed-pj5nd1wqec.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\4m9p7zzo0l-46ein0sx1k.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\azk0y6i4le-v0zj4ognzu.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\u8gmxboxou-37tfw0ft22.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\7zse86ajjm-hrwsygsryq.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\2r6tciqz9z-pk9g2wxc8p.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\e462vipgej-ft3s53vfgj.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\6ud7cvgxur-6cfz1n2cew.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\utnf184pwc-6pdc2jztkx.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\54rnlqrq7d-493y06b0oq.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\wowvef5msp-iovd86k7lj.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\mua7rme932-vr1egmr9el.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\j5dfsc85b7-kbrnm935zg.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\v3iihlm4pu-jj8uyg4cgr.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\a40n6o86xn-y7v9cxd14o.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\k03fwda3qw-notf2xhcfb.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\1gquuwwskd-h1s4sie4z3.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\aruhswob54-63fj8s7r0e.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\1lqrh5d4vj-0j3bgjxly4.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\b9anx3qsfu-6cfz1n2cew.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\q51r08hes6-6pdc2jztkx.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\xbrr5ln01q-493y06b0oq.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\8p6ny49dof-iovd86k7lj.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\8d4k9dvtqv-vr1egmr9el.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\ni9mwz38s0-kbrnm935zg.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\1o2mrx08dq-jj8uyg4cgr.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\14ik9sp8z0-y7v9cxd14o.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\1g5xyl9rin-notf2xhcfb.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\4i606k3ea5-h1s4sie4z3.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\zz8ksxnvs9-63fj8s7r0e.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\1zx1c6abzd-0j3bgjxly4.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\w24y2eat5k-ulb8kzwt9u.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\seb407pm0v-47otxtyo56.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\7waa4ffroa-4v8eqarkd7.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\h3f19d4cjb-l3n5xuwxn8.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\xawye55o0f-ilo7uva0vt.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\rlpvtm7maa-qlccset4i1.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\es9d2txf3w-lzl9nlhx6b.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\ekxgl72f8w-ag7o75518u.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\x75k5wnmi7-xzw0cte36n.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\l9qeu2ftyf-0i3buxo5is.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\tbluqnep57-o1o13a6vjx.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\buqdk0lami-ttgo8qnofa.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\io7or041iz-2z0ns9nrw6.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\ya3zsu4sy0-muycvpuwrr.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\df4zf7p3ey-87fc7y1x7t.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\2gazs64hk0-jfsiqqwiad.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\k1agf3ih4a-ey2n6aytof.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\compressed\h14mywobu7-ey2n6aytof.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\PriceQuotationApp.dll
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\refint\PriceQuotationApp.dll
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\PriceQuotationApp.pdb
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\PriceQuotationApp.genruntimeconfig.cache
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\PriceQuotationApp\obj\Debug\net9.0\ref\PriceQuotationApp.dll
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\bin\Debug\net9.0\PriceQuotationApp.exe
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\bin\Debug\net9.0\PriceQuotationApp.dll
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\bin\Debug\net9.0\appsettings.json
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\bin\Debug\net9.0\libman.json
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\bin\Debug\net9.0\PriceQuotationApp.staticwebassets.runtime.json
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\bin\Debug\net9.0\PriceQuotationApp.staticwebassets.endpoints.json
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\PriceQuotationApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\PriceQuotationApp.AssemblyInfoInputs.cache
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\PriceQuotationApp.AssemblyInfo.cs
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\PriceQuotationApp.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\PriceQuotationApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\PriceQuotationApp.RazorAssemblyInfo.cache
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\PriceQuotationApp.RazorAssemblyInfo.cs
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\PriceQuotationApp.sourcelink.json
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\scopedcss\bundle\PriceQuotationApp.styles.css
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\scopedcss\projectbundle\PriceQuotationApp.bundle.scp.css
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\uylzhqr4zr-m63nr5e1wm.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\7bvyl81x7o-gaqwphjnqn.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\8y8m12rsj6-ru2cxr19xd.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\r8rr6f090s-sovr1pp57m.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\03g8vbm9tg-e6lxb1zo4r.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\806hcwp6ik-uyc8cyps1s.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\ul0sad5jf4-cymb3pma5s.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\5404ofxbgq-r7fcis5f5w.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\gkiwnmf3d2-qgdusir5wo.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\9ifcpnv8ev-abqchyd4ey.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\w2rersnecr-duzqaujvcb.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\3f53woj8eg-6kh6g3t9s6.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\tzxv147rg3-5rzq459b4c.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\ms492t33o1-z27kpi724c.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\dndj11fnjk-ssodwtr8me.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\wwb3x3gjg6-wyzj39ldk5.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\r8sqe4y4th-59b9ma3wnj.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\0yqr4rf1nw-sul8q0jcid.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\ec63ndabvr-ra1e54wghy.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\au1utbh7yk-2bo1c34vsp.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\pf9s829uje-yfbl1mg38h.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\pjrb3hks33-9gq32dhbrm.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\st2bmraq5y-dqnj1qjzns.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\kwiijrwgjs-rh0m0hz4su.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\p6x874fp5h-evu8y4tl4x.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\qjt0rxeujd-b59oeg5zbp.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\suk6kw4g4t-026e6kk7rh.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\r8b6heqwfj-8odm1nyag1.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\npsty91pay-5tux705jrt.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\z6dcqv8kg5-8h82c988d2.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\63sv7tjyxu-fijaqoo955.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\xkq7emhkzi-ys2tyb6s49.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\2uo74waseu-lhbtj9850u.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\7t8c8hio7o-u6djazel9b.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\tj0sab1aga-wvublzrdv8.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\qzsysszjcp-259makaqpv.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\je4bur55jd-whkg23h785.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\a5q0ab66zl-ld7xckwkli.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\p82agk8hgp-p88p7jyaev.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\j1ik3kui2q-za30oyn8rw.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\pteqnwr3li-5svw5dju7q.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\0w2ydwo8m0-ir474ug6zy.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\i0g5jne816-5cl6jzyzps.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\1w9e6o05xc-a2c1phmbzv.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\1x55ho4oqj-lugek5hnai.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\fctycyt3m2-61n19gt1b8.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\xthzer6j41-fr7q2aak1r.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\w7aiiu1qwi-bqjiyaj88i.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\340p91yxm3-c2jlpeoesf.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\5cmahghq97-erw9l3u2r3.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\1p389jjcen-aexeepp0ev.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\zw71yi1dea-d7shbmvgxk.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\3tfax2g7jp-ausgxo2sd3.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\wnat399zy4-k8d9w2qqmf.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\scqgycze57-cosvhxvwiu.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\5m4pbp0u0v-ub07r2b239.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\f28ypuf4lw-fvhpjtyr6v.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\9v6ulxodbv-b7pk76d08c.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\e9i482o5d9-fsbi9cje9m.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\o3fiuxtfoh-rzd6atqjts.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\425zsx5luo-ee0r1s7dh0.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\i5t0nnjqxf-dxx9fxp4il.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\qbd3zpixm8-jd9uben2k1.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\hwlmfh7nin-khv3u5hwcm.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\ji4828cyya-r4e9w2rdcm.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\dp1po4z9w6-lcd1t2u6c8.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\qoryh24whm-c2oey78nd0.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\g9v5bchas7-tdbxkamptv.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\k3sts2yyg7-j5mq2jizvt.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\6qf3er2erh-06098lyss8.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\o86axv21e8-nvvlpmu67g.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\zbhwtxu5fa-s35ty4nyc5.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\3hq4mxgjwj-pj5nd1wqec.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\g1m85svs8p-46ein0sx1k.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\nubs7k0bkh-v0zj4ognzu.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\op8r1qg5on-37tfw0ft22.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\lg79z4dsx9-hrwsygsryq.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\ac5tbuse2g-pk9g2wxc8p.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\02bclnz0x7-ft3s53vfgj.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\016uij6zge-bqjiyaj88i.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\bg62pupkaf-c2jlpeoesf.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\smn9a92i8c-erw9l3u2r3.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\apy27d3bj7-aexeepp0ev.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\4ekvi01f23-d7shbmvgxk.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\0sfmizrb36-ausgxo2sd3.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\wurtoav11u-k8d9w2qqmf.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\mbml19yt2v-cosvhxvwiu.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\7jjxtb27me-ub07r2b239.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\lbxy6oug14-fvhpjtyr6v.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\zam9w377tq-b7pk76d08c.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\k63w9dvpwb-fsbi9cje9m.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\wuh7x080ym-rzd6atqjts.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\dwqjuyca5n-ee0r1s7dh0.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\lngjuw2vsu-dxx9fxp4il.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\7kw92ksqek-jd9uben2k1.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\cmd8z0gz8x-khv3u5hwcm.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\vo6mj8ixfj-r4e9w2rdcm.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\ksf0pdjoeu-lcd1t2u6c8.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\zl42u9sajp-c2oey78nd0.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\q6orkf83mz-tdbxkamptv.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\39uynsxbgd-j5mq2jizvt.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\9bya9yi0n8-06098lyss8.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\aur5aawi7q-nvvlpmu67g.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\4rsb16onr4-s35ty4nyc5.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\f9kkzx8zed-pj5nd1wqec.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\4m9p7zzo0l-46ein0sx1k.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\azk0y6i4le-v0zj4ognzu.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\u8gmxboxou-37tfw0ft22.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\7zse86ajjm-hrwsygsryq.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\2r6tciqz9z-pk9g2wxc8p.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\e462vipgej-ft3s53vfgj.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\6ud7cvgxur-6cfz1n2cew.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\utnf184pwc-6pdc2jztkx.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\54rnlqrq7d-493y06b0oq.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\wowvef5msp-iovd86k7lj.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\mua7rme932-vr1egmr9el.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\j5dfsc85b7-kbrnm935zg.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\v3iihlm4pu-jj8uyg4cgr.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\a40n6o86xn-y7v9cxd14o.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\k03fwda3qw-notf2xhcfb.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\1gquuwwskd-h1s4sie4z3.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\aruhswob54-63fj8s7r0e.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\1lqrh5d4vj-0j3bgjxly4.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\b9anx3qsfu-6cfz1n2cew.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\q51r08hes6-6pdc2jztkx.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\xbrr5ln01q-493y06b0oq.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\8p6ny49dof-iovd86k7lj.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\8d4k9dvtqv-vr1egmr9el.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\ni9mwz38s0-kbrnm935zg.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\1o2mrx08dq-jj8uyg4cgr.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\14ik9sp8z0-y7v9cxd14o.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\1g5xyl9rin-notf2xhcfb.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\4i606k3ea5-h1s4sie4z3.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\zz8ksxnvs9-63fj8s7r0e.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\1zx1c6abzd-0j3bgjxly4.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\w24y2eat5k-ulb8kzwt9u.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\seb407pm0v-47otxtyo56.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\7waa4ffroa-4v8eqarkd7.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\h3f19d4cjb-l3n5xuwxn8.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\xawye55o0f-ilo7uva0vt.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\rlpvtm7maa-qlccset4i1.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\es9d2txf3w-lzl9nlhx6b.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\ekxgl72f8w-ag7o75518u.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\x75k5wnmi7-xzw0cte36n.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\l9qeu2ftyf-0i3buxo5is.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\tbluqnep57-o1o13a6vjx.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\buqdk0lami-ttgo8qnofa.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\io7or041iz-2z0ns9nrw6.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\ya3zsu4sy0-muycvpuwrr.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\df4zf7p3ey-87fc7y1x7t.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\2gazs64hk0-jfsiqqwiad.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\k1agf3ih4a-ey2n6aytof.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\compressed\h14mywobu7-ey2n6aytof.gz
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\PriceQuotationApp.dll
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\refint\PriceQuotationApp.dll
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\PriceQuotationApp.pdb
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\bin\Debug\net9.0\PriceQuotationApp.deps.json
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\bin\Debug\net9.0\PriceQuotationApp.runtimeconfig.json
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\bin\Debug\net9.0\PriceQuotationApp.pdb
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\PriceQuotationApp.genruntimeconfig.cache
+C:\Users\Andrew\QuickAccess Groups\Programming_projects\DallasCollege\INEW-1340-1-ASP.NET Programming\ASP.NET_DallasCollege-main\obj\Debug\net9.0\ref\PriceQuotationApp.dll

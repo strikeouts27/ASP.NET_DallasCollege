@@ -1,0 +1,121 @@
+@model PriceQuotationApp.Models.Quotation
+@{
+    ViewData["Title"] = "Price Quotation";
+}
+
+<!-- ======================================= -->
+<!-- Step 1: Header                          -->
+<!-- Use Bootstrap context classes for color -->
+<!-- Docs: https://getbootstrap.com/docs/5.3/utilities/colors/ -->
+<!-- Slides: Context classes example (Ch3)   -->
+<!-- ======================================= -->
+<header class="bg-primary text-white text-center p-4 mb-4">
+    <h1><i class="fas fa-coins"></i> Price Quotation App</h1>
+</header>
+
+<!-- ======================================= -->
+<!-- Step 2: Form Container                  -->
+<!-- Wrap form in Bootstrap container for    -->
+<!-- spacing & responsive behavior           -->
+<!-- Docs: https://getbootstrap.com/docs/5.3/layout/containers/ -->
+<!-- ======================================= -->
+<div class="container">
+    <form asp-action="Index" method="post" class="needs-validation" novalidate>
+
+        <!-- ======================================= -->
+        <!-- Step 3: Subtotal Input Row              -->
+        <!-- Use Bootstrap grid (row + col-md-*)     -->
+        <!-- Horizontal form on medium+ screens      -->
+        <!-- Vertical form on small screens          -->
+        <!-- Slides: Horizontal form example (Ch3)   -->
+        <!-- ======================================= -->
+        
+        
+
+        <div class="row mb-3">
+        <!-- asp-for tags will send inputted data to the model so the model attributes can be updated with the input values --> 
+            <label asp-for="Subtotal" class="col-md-2 col-form-label">Subtotal:</label>
+            <div class="col-md-5">
+                <input asp-for="Subtotal" class="form-control" />
+            </div>
+            <!-- Validation messages styled in red -->
+            <!-- Docs: https://getbootstrap.com/docs/5.3/utilities/colors/#text -->
+            <div class="col-md-5 text-danger">
+                <span asp-validation-for="Subtotal"></span>
+            </div>
+        </div>
+
+        <!-- ======================================= -->
+        <!-- Step 4: Discount Percent Input Row      -->
+        <!-- Same grid system approach as Subtotal   -->
+        <!-- ======================================= -->
+        <div class="row mb-3">
+            <label asp-for="DiscountPercent" class="col-md-2 col-form-label">Discount %:</label>
+            <div class="col-md-5">
+                <input asp-for="DiscountPercent" class="form-control" />
+            </div>
+            <div class="col-md-5 text-danger">
+                <span asp-validation-for="DiscountPercent"></span>
+            </div>
+        </div>
+
+        <!-- Tax Rate Input Row -->
+        <div class="row mb-3">
+            <label asp-for="TaxRate" class="col-md-2 col-form-label">Tax %:</label>
+            <div class="col-md-5">
+                <input asp-for="TaxRate" class="form-control" />
+            </div>
+            
+            <div class="col-md-5 text-danger">
+                <span asp-validation-for="TaxRate"></span>
+            </div>
+
+        </div>
+        <!-- ======================================= -->
+        <!-- Step 5: Display Discount Result         -->
+        <!-- Output value from ViewBag, formatted    -->
+        <!-- as currency.                           -->
+        <!-- Docs: Razor syntax reference:           -->
+        <!-- https://learn.microsoft.com/en-us/aspnet/core/mvc/views/razor -->
+        <!-- ======================================= -->
+        <div class="row mb-3">
+            <label class="col-md-2 col-form-label">Discount:</label>
+            <div class="col-md-10 pt-2">
+                @ViewBag.Discount.ToString("C")
+            </div>
+        </div>
+
+        <!-- ======================================= -->
+        <!-- Step 6: Display Total Result            -->
+        <!-- ======================================= -->
+        <div class="row mb-3">
+            <label class="col-md-2 col-form-label">Total:</label>
+            <div class="col-md-10 pt-2">
+                @ViewBag.Total.ToString("C")
+            </div>
+        </div>
+
+        <!-- ======================================= -->
+        <!-- Step 7: Buttons                         -->
+        <!-- Style buttons to match header color     -->
+        <!-- Docs: https://getbootstrap.com/docs/5.3/components/buttons/ -->
+        <!-- Slides: Button classes (Ch3)            -->
+        <!-- ======================================= -->
+        <div class="row">
+            <div class="col-md-12">
+                <button type="submit" class="btn btn-primary me-2">Calculate</button>
+                <a asp-action="Index" class="btn btn-primary">Clear</a>
+            </div>
+        </div>
+
+        <!-- ======================================= -->
+        <!-- Step 8: Personalized Element            -->
+        <!-- TODO: Add one unique feature here!      -->
+        <!-- Example: Add "Tax %" input or reset     -->
+        <!-- Docs: Model Validation                  -->
+        <!-- https://learn.microsoft.com/en-us/aspnet/core/mvc/models/validation -->
+        <!-- ======================================= -->
+           
+
+    </form>
+</div>

@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - PriceQuotationApp</title>
+
+    <!-- ======================================= -->
+    <!-- Step 1: Bootstrap CSS                   -->
+    <!-- Installed with LibMan into wwwroot/lib  -->
+    <!-- Docs: https://learn.microsoft.com/en-us/aspnet/core/client-side/bootstrap -->
+    <!-- Slides: Adding Bootstrap with LibMan    -->
+    <!--        (Chapter 3, "How to add Bootstrap") -->
+    <!-- ======================================= --p>
+    <link rel="stylesheet" href="~/lib/bootstrap/css/bootstrap.min.css" />
+
+    <!-- ======================================= -->
+    <!-- Step 2: Font Awesome CSS                -->
+    <!-- Installed with LibMan into wwwroot/lib  -->
+    <!-- Docs: https://fontawesome.com/icons     -->
+    <!-- Slides: Font Awesome usage (Chapter 3)  -->
+    <!-- ======================================= -->
+    <link rel="stylesheet" href="~/lib/fontawesome/css/all.min.css" />
+
+    <!-- ======================================= -->
+    <!-- Step 3: Site-specific CSS (optional)    -->
+    <!-- This file is created by default in      -->
+    <!-- ASP.NET Core projects. Add any custom   -->
+    <!-- overrides here.                         -->
+    <!-- ======================================= -->
+    <link rel="stylesheet" href="~/css/site.css" />
+</head>
+<body>
+    <!-- ======================================= -->
+    <!-- Step 4: Page Content                    -->
+    <!-- This is where each Razor view injects   -->
+    <!-- its content (e.g., Index.cshtml).       -->
+    <!-- Docs: Razor Layouts                     -->
+    <!-- https://learn.microsoft.com/en-us/aspnet/core/mvc/views/layout -->
+    <!-- ======================================= -->
+    <main role="main" class="pb-3">
+        @RenderBody()
+    </main>
+
+    <!-- ======================================= -->
+    <!-- Step 5: JavaScript References           -->
+    <!-- Bootstrap requires Popper.js (installed -->
+    <!-- via LibMan). Bootstrap.bundle.min.js    -->
+    <!-- includes Popper internally.             -->
+    <!-- Docs: https://getbootstrap.com/docs/5.3/getting-started/introduction/ -->
+    <!-- Slides: Adding Popper library (Chapter 3) -->
+    <!-- ======================================= -->
+    <script src="~/lib/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+    <!-- Optional: site-specific scripts -->
+    <script src="~/js/site.js"></script>
+</body>
+</html>
