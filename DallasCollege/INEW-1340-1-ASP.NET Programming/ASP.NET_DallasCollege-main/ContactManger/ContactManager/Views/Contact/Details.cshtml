@@ -1,0 +1,98 @@
+@model Contact
+
+@{
+    ViewData["Title"] = "Contact Details";
+}
+
+<div class="row">
+    <div class="col-md-8">
+        <h2>Contact Details</h2>
+        
+        <!-- Contact Information Card -->
+        <div class="card">
+            <div class="card-header bg-primary text-white">
+                <h4 class="mb-0">
+                    <i class="fas fa-user"></i> @Model.Firstname @Model.Lastname
+                </h4>
+            </div>
+            <div class="card-body">
+                <dl class="row">
+                    <dt class="col-sm-3">First Name:</dt>
+                    <dd class="col-sm-9">@Model.Firstname</dd>
+                    
+                    <dt class="col-sm-3">Last Name:</dt>
+                    <dd class="col-sm-9">@Model.Lastname</dd>
+                    
+                    <dt class="col-sm-3">Phone:</dt>
+                    <dd class="col-sm-9">
+                        <a href="tel:@Model.Phone" class="text-decoration-none">
+                            <i class="fas fa-phone"></i> @Model.Phone
+                        </a>
+                    </dd>
+                    
+                    <dt class="col-sm-3">Email:</dt>
+                    <dd class="col-sm-9">
+                        <a href="mailto:@Model.Email" class="text-decoration-none">
+                            <i class="fas fa-envelope"></i> @Model.Email
+                        </a>
+                    </dd>
+                    
+                    <dt class="col-sm-3">Category:</dt>
+                    <dd class="col-sm-9">
+                        <span class="badge bg-secondary">@Model.Category.Name</span>
+                    </dd>
+                    
+                    <dt class="col-sm-3">Date Added:</dt>
+                    <dd class="col-sm-9">
+                        <i class="fas fa-calendar"></i> @Model.DateAdded.ToString("MMMM dd, yyyy")
+                    </dd>
+                    
+                    <dt class="col-sm-3">URL Slug:</dt>
+                    <dd class="col-sm-9">
+                        <code>@Model.Slug</code>
+                    </dd>
+                </dl>
+            </div>
+        </div>
+        
+        <!-- Action Buttons -->
+        <div class="mt-4 d-flex gap-2">
+            <a asp-action="Edit" asp-route-id="@Model.ContactId" 
+               class="btn btn-warning">
+                <i class="fas fa-edit"></i> Edit Contact
+            </a>
+            
+            <a asp-action="Delete" asp-route-id="@Model.ContactId" 
+               class="btn btn-danger">
+                <i class="fas fa-trash"></i> Delete Contact
+            </a>
+            
+            <a asp-controller="Home" asp-action="Index" 
+               class="btn btn-secondary">
+                <i class="fas fa-list"></i> Back to List
+            </a>
+        </div>
+    </div>
+    
+    <!-- Optional: Quick Actions Sidebar -->
+    <div class="col-md-4">
+        <div class="card">
+            <div class="card-header">
+                <h5>Quick Actions</h5>
+            </div>
+            <div class="card-body">
+                <div class="d-grid gap-2">
+                    <a href="tel:@Model.Phone" class="btn btn-outline-success btn-sm">
+                        <i class="fas fa-phone"></i> Call
+                    </a>
+                    <a href="mailto:@Model.Email" class="btn btn-outline-primary btn-sm">
+                        <i class="fas fa-envelope"></i> Email
+                    </a>
+                    <a href="sms:@Model.Phone" class="btn btn-outline-info btn-sm">
+                        <i class="fas fa-sms"></i> Text
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
